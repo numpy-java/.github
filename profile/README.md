@@ -47,4 +47,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact the project maintainer at [sahil12345work@gmail.com](sahil12345work@gmail.com).
+For any questions or suggestions, please open an issue or contact the project maintainer at [sahil12345work@gmail.com](mailto:sahil12345work@gmail.com) <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="12" style="vertical-align: middle;" />
+
